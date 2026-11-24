@@ -1,0 +1,1614 @@
+[
+  {
+    "name": "architecture",
+    "slug": "architecture",
+    "category": "01-engenharia-e-dev",
+    "status": "validado",
+    "type": "skill",
+    "url": "",
+    "local_path": "~/.agents/skills/architecture",
+    "description": "Framework de decisao arquitetural, trade-off analysis e ADR docs",
+    "tags": [
+      "arquitetura",
+      "adr",
+      "design-decisions"
+    ],
+    "comando_install": "Antigravity built-in"
+  },
+  {
+    "name": "api-design-principles",
+    "slug": "api-design-principles",
+    "category": "01-engenharia-e-dev",
+    "status": "validado",
+    "type": "skill",
+    "url": "",
+    "local_path": "~/.agents/skills/api-design-principles",
+    "description": "Principios de design REST e GraphQL para APIs escalaveis",
+    "tags": [
+      "api",
+      "rest",
+      "graphql"
+    ],
+    "comando_install": "Antigravity built-in"
+  },
+  {
+    "name": "agents-sdk",
+    "slug": "agents-sdk",
+    "category": "01-engenharia-e-dev",
+    "status": "validado",
+    "type": "skill",
+    "url": "",
+    "local_path": "~/.agents/skills/agents-sdk",
+    "description": "Build AI agents on Cloudflare Workers com Agents SDK",
+    "tags": [
+      "cloudflare",
+      "workers",
+      "agents"
+    ],
+    "comando_install": "Antigravity built-in"
+  },
+  {
+    "name": "cloudflare",
+    "slug": "cloudflare",
+    "category": "01-engenharia-e-dev",
+    "status": "validado",
+    "type": "skill",
+    "url": "",
+    "local_path": "~/.agents/skills/cloudflare",
+    "description": "Plataforma Cloudflare completa: Workers, KV, D1, R2, AI",
+    "tags": [
+      "cloudflare",
+      "workers",
+      "infra"
+    ],
+    "comando_install": "Antigravity built-in"
+  },
+  {
+    "name": "durable-objects",
+    "slug": "durable-objects",
+    "category": "01-engenharia-e-dev",
+    "status": "validado",
+    "type": "skill",
+    "url": "",
+    "local_path": "~/.agents/skills/durable-objects",
+    "description": "Cloudflare Durable Objects para coordenacao stateful",
+    "tags": [
+      "cloudflare",
+      "stateful",
+      "durable-objects"
+    ],
+    "comando_install": "Antigravity built-in"
+  },
+  {
+    "name": "workers-best-practices",
+    "slug": "workers-best-practices",
+    "category": "01-engenharia-e-dev",
+    "status": "validado",
+    "type": "skill",
+    "url": "",
+    "local_path": "~/.agents/skills/workers-best-practices",
+    "description": "Producao: streaming, secrets, bindings, observability para Workers",
+    "tags": [
+      "cloudflare",
+      "workers",
+      "best-practices"
+    ],
+    "comando_install": "Antigravity built-in"
+  },
+  {
+    "name": "wrangler",
+    "slug": "wrangler",
+    "category": "01-engenharia-e-dev",
+    "status": "validado",
+    "type": "skill",
+    "url": "",
+    "local_path": "~/.agents/skills/wrangler",
+    "description": "CLI Cloudflare para deploy, KV, R2, D1, Vectorize, AI, Queues",
+    "tags": [
+      "cloudflare",
+      "cli",
+      "deploy"
+    ],
+    "comando_install": "Antigravity built-in"
+  },
+  {
+    "name": "lint-and-validate",
+    "slug": "lint-and-validate",
+    "category": "01-engenharia-e-dev",
+    "status": "validado",
+    "type": "skill",
+    "url": "",
+    "local_path": "~/.agents/skills/lint-and-validate",
+    "description": "Quality control automatico e analise estatica apos cada edicao",
+    "tags": [
+      "lint",
+      "qa",
+      "static-analysis"
+    ],
+    "comando_install": "Antigravity built-in"
+  },
+  {
+    "name": "test-driven-development",
+    "slug": "test-driven-development",
+    "category": "01-engenharia-e-dev",
+    "status": "validado",
+    "type": "skill",
+    "url": "",
+    "local_path": "~/.gemini/config/skills/test-driven-development",
+    "description": "TDD: escrever testes antes da implementacao",
+    "tags": [
+      "tdd",
+      "testing",
+      "quality"
+    ],
+    "comando_install": "Antigravity built-in"
+  },
+  {
+    "name": "debugging-strategies",
+    "slug": "debugging-strategies",
+    "category": "01-engenharia-e-dev",
+    "status": "validado",
+    "type": "skill",
+    "url": "",
+    "local_path": "~/.gemini/config/skills/debugging-strategies",
+    "description": "Tecnicas sistematicas de debug, profiling e root cause analysis",
+    "tags": [
+      "debug",
+      "profiling",
+      "rca"
+    ],
+    "comando_install": "Antigravity built-in"
+  },
+  {
+    "name": "security-auditor",
+    "slug": "security-auditor",
+    "category": "01-engenharia-e-dev",
+    "status": "validado",
+    "type": "skill",
+    "url": "",
+    "local_path": "~/.agents/skills/security-auditor",
+    "description": "DevSecOps, auditoria de seguranca e compliance frameworks",
+    "tags": [
+      "security",
+      "devsecops",
+      "audit"
+    ],
+    "comando_install": "Antigravity built-in"
+  },
+  {
+    "name": "mcp-builder",
+    "slug": "mcp-builder",
+    "category": "01-engenharia-e-dev",
+    "status": "validado",
+    "type": "skill",
+    "url": "",
+    "local_path": "~/.agents/skills/mcp-builder",
+    "description": "Guia para criar MCP servers em Python (FastMCP) ou TypeScript",
+    "tags": [
+      "mcp",
+      "server",
+      "protocol"
+    ],
+    "comando_install": "Antigravity built-in"
+  },
+  {
+    "name": "frontend-design",
+    "slug": "frontend-design",
+    "category": "01-engenharia-e-dev",
+    "status": "validado",
+    "type": "skill",
+    "url": "",
+    "local_path": "~/.gemini/config/skills/frontend-design",
+    "description": "Interfaces frontend production-grade com alto padrao de design",
+    "tags": [
+      "frontend",
+      "ui",
+      "design"
+    ],
+    "comando_install": "Antigravity built-in"
+  },
+  {
+    "name": "gemini-api-dev",
+    "slug": "gemini-api-dev",
+    "category": "01-engenharia-e-dev",
+    "status": "validado",
+    "type": "skill",
+    "url": "",
+    "local_path": "~/.gemini/config/skills/gemini-api-dev",
+    "description": "SDKs Gemini API (Python, JS, Java, Go) e capabilities multimodais",
+    "tags": [
+      "gemini",
+      "api",
+      "sdk"
+    ],
+    "comando_install": "Antigravity built-in"
+  },
+  {
+    "name": "microsoft-foundry",
+    "slug": "microsoft-foundry",
+    "category": "01-engenharia-e-dev",
+    "status": "validado",
+    "type": "skill",
+    "url": "",
+    "local_path": "~/.agents/skills/microsoft-foundry",
+    "description": "Azure AI Foundry: agents, models, deploy, fine-tuning, eval",
+    "tags": [
+      "azure",
+      "foundry",
+      "agents"
+    ],
+    "comando_install": "Antigravity built-in"
+  },
+  {
+    "name": "computer-use",
+    "slug": "computer-use",
+    "category": "01-engenharia-e-dev",
+    "status": "validado",
+    "type": "skill",
+    "url": "",
+    "local_path": "~/.agents/skills/computer-use",
+    "description": "Automacao GUI via orca computer: clicks, typing, menus, screenshots",
+    "tags": [
+      "gui",
+      "automation",
+      "orca"
+    ],
+    "comando_install": "Antigravity built-in"
+  },
+  {
+    "name": "ui-ux-pro-max",
+    "slug": "ui-ux-pro-max",
+    "category": "01-engenharia-e-dev",
+    "status": "validado",
+    "type": "skill",
+    "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+    "local_path": "~/.claude/skills/ui-ux-pro-max",
+    "description": "67 estilos, 161 paletas, 57 font pairings, 25 chart types, 99 UX guidelines",
+    "tags": [
+      "ui",
+      "ux",
+      "design-system",
+      "mega-skill"
+    ],
+    "comando_install": "git clone https://github.com/nextlevelbuilder/ui-ux-pro-max-skill ~/.claude/skills/ui-ux-pro-max"
+  },
+  {
+    "name": "impeccable",
+    "slug": "impeccable",
+    "category": "01-engenharia-e-dev",
+    "status": "validado",
+    "type": "repo",
+    "url": "https://github.com/pbakaus/impeccable",
+    "local_path": "~/.claude/impeccable-repo",
+    "description": "Framework de design guidelines para interfaces impecaveis",
+    "tags": [
+      "design",
+      "guidelines",
+      "quality"
+    ],
+    "comando_install": "git clone https://github.com/pbakaus/impeccable.git"
+  },
+  {
+    "name": "open-code-review",
+    "slug": "open-code-review",
+    "category": "01-engenharia-e-dev",
+    "status": "validado",
+    "type": "tool",
+    "url": "https://github.com/alibaba/open-code-review",
+    "local_path": "~/.codex/plugins/cache/open-code-review/open-code-review-codex/1.0.0/skills/open-code-review",
+    "description": "Code review automatizado da Alibaba",
+    "tags": [
+      "code-review",
+      "qa",
+      "alibaba"
+    ],
+    "comando_install": "git clone https://github.com/alibaba/open-code-review.git"
+  },
+  {
+    "name": "Agentic-Design-Patterns",
+    "slug": "agentic-design-patterns",
+    "category": "01-engenharia-e-dev",
+    "status": "validado",
+    "type": "repo",
+    "url": "https://github.com/evoiz/Agentic-Design-Patterns",
+    "local_path": "~/.codex/references/Agentic-Design-Patterns",
+    "description": "Padroes de design para sistemas agenticos de IA",
+    "tags": [
+      "agents",
+      "patterns",
+      "reference"
+    ],
+    "comando_install": "git clone https://github.com/evoiz/Agentic-Design-Patterns.git"
+  },
+  {
+    "name": "cloudflare-email-service",
+    "slug": "cloudflare-email-service",
+    "category": "02-automacao-e-workflows",
+    "status": "validado",
+    "type": "skill",
+    "url": "",
+    "local_path": "~/.agents/skills/cloudflare-email-service",
+    "description": "Email transacional via Cloudflare: sending, routing, SPF/DKIM",
+    "tags": [
+      "email",
+      "cloudflare",
+      "transactional"
+    ],
+    "comando_install": "Antigravity built-in"
+  },
+  {
+    "name": "n8n-workflow-patterns",
+    "slug": "n8n-workflow-patterns",
+    "category": "02-automacao-e-workflows",
+    "status": "validado",
+    "type": "skill",
+    "url": "",
+    "local_path": "~/.agents/skills/n8n-workflow-patterns",
+    "description": "Padroes arquiteturais para workflows n8n (webhook, DB, AI agents)",
+    "tags": [
+      "n8n",
+      "workflow",
+      "patterns"
+    ],
+    "comando_install": "Antigravity built-in"
+  },
+  {
+    "name": "n8n-code-javascript",
+    "slug": "n8n-code-javascript",
+    "category": "02-automacao-e-workflows",
+    "status": "validado",
+    "type": "skill",
+    "url": "",
+    "local_path": "~/.agents/skills/n8n-code-javascript",
+    "description": "JavaScript em Code nodes do n8n: $input, $json, HTTP, DateTime",
+    "tags": [
+      "n8n",
+      "javascript",
+      "code-node"
+    ],
+    "comando_install": "Antigravity built-in"
+  },
+  {
+    "name": "n8n-code-python",
+    "slug": "n8n-code-python",
+    "category": "02-automacao-e-workflows",
+    "status": "validado",
+    "type": "skill",
+    "url": "",
+    "local_path": "~/.agents/skills/n8n-code-python",
+    "description": "Python em Code nodes do n8n: _input, _json, standard library",
+    "tags": [
+      "n8n",
+      "python",
+      "code-node"
+    ],
+    "comando_install": "Antigravity built-in"
+  },
+  {
+    "name": "n8n-mcp-tools-expert",
+    "slug": "n8n-mcp-tools-expert",
+    "category": "02-automacao-e-workflows",
+    "status": "validado",
+    "type": "skill",
+    "url": "",
+    "local_path": "~/.agents/skills/n8n-mcp-tools-expert",
+    "description": "Uso experto de ferramentas MCP no n8n: search, validate, templates",
+    "tags": [
+      "n8n",
+      "mcp",
+      "tools"
+    ],
+    "comando_install": "Antigravity built-in"
+  },
+  {
+    "name": "loop-engineering",
+    "slug": "loop-engineering",
+    "category": "02-automacao-e-workflows",
+    "status": "validado",
+    "type": "skill",
+    "url": "",
+    "local_path": "~/.agents/skills/loop-engineering",
+    "description": "Loops autonomos de agentes com self-healing e maker/checker split",
+    "tags": [
+      "loop",
+      "autonomous",
+      "self-healing"
+    ],
+    "comando_install": "Antigravity built-in"
+  },
+  {
+    "name": "orchestration",
+    "slug": "orchestration",
+    "category": "02-automacao-e-workflows",
+    "status": "validado",
+    "type": "skill",
+    "url": "",
+    "local_path": "~/.agents/skills/orchestration",
+    "description": "Coordenacao de workers Orca: dispatch, heartbeats, DAGs, decision gates",
+    "tags": [
+      "orchestration",
+      "orca",
+      "workers"
+    ],
+    "comando_install": "Antigravity built-in"
+  },
+  {
+    "name": "orca-cli",
+    "slug": "orca-cli",
+    "category": "02-automacao-e-workflows",
+    "status": "validado",
+    "type": "skill",
+    "url": "",
+    "local_path": "~/.agents/skills/orca-cli",
+    "description": "Orca worktrees, terminals, repos, automations e browser",
+    "tags": [
+      "orca",
+      "cli",
+      "worktrees"
+    ],
+    "comando_install": "Antigravity built-in"
+  },
+  {
+    "name": "sequential-thinking",
+    "slug": "sequential-thinking",
+    "category": "02-automacao-e-workflows",
+    "status": "validado",
+    "type": "skill",
+    "url": "",
+    "local_path": "~/.agents/skills/sequential-thinking",
+    "description": "Raciocinio estruturado step-by-step para problemas complexos",
+    "tags": [
+      "reasoning",
+      "structured",
+      "mcp"
+    ],
+    "comando_install": "Antigravity built-in"
+  },
+  {
+    "name": "graphify",
+    "slug": "graphify",
+    "category": "02-automacao-e-workflows",
+    "status": "validado",
+    "type": "skill",
+    "url": "",
+    "local_path": "~/.agents/skills/graphify",
+    "description": "Transforma codigo/docs/URLs em knowledge graphs com GraphRAG",
+    "tags": [
+      "graph",
+      "knowledge",
+      "graphrag"
+    ],
+    "comando_install": "Antigravity built-in"
+  },
+  {
+    "name": "obsidian-cli",
+    "slug": "obsidian-cli",
+    "category": "02-automacao-e-workflows",
+    "status": "validado",
+    "type": "skill",
+    "url": "",
+    "local_path": "~/.agents/skills/obsidian-cli",
+    "description": "CLI para interagir com vaults Obsidian: notes, tasks, search, plugins",
+    "tags": [
+      "obsidian",
+      "cli",
+      "vault"
+    ],
+    "comando_install": "Antigravity built-in"
+  },
+  {
+    "name": "obsidian-mcp-server",
+    "slug": "obsidian-mcp-server",
+    "category": "02-automacao-e-workflows",
+    "status": "validado",
+    "type": "mcp-server",
+    "url": "https://github.com/DanMrxs/obsidian-mcp-server",
+    "local_path": "~/mcp-servers/obsidian",
+    "description": "MCP Server customizado para Obsidian (fork com 20+ skills)",
+    "tags": [
+      "mcp",
+      "obsidian",
+      "server"
+    ],
+    "comando_install": "cd ~/mcp-servers/obsidian && npm install && npm run build"
+  },
+  {
+    "name": "context7",
+    "slug": "context7",
+    "category": "02-automacao-e-workflows",
+    "status": "validado",
+    "type": "mcp-server",
+    "url": "",
+    "local_path": "~/.claude/mcp.json",
+    "description": "Upstash Context7: documentacao contextual on-demand via MCP",
+    "tags": [
+      "mcp",
+      "context",
+      "upstash"
+    ],
+    "comando_install": "npm install @upstash/context7-mcp"
+  },
+  {
+    "name": "email-agent",
+    "slug": "email-agent",
+    "category": "02-automacao-e-workflows",
+    "status": "validado",
+    "type": "mcp-server",
+    "url": "https://github.com/DanMrxs/email-agent",
+    "local_path": "~/Documents/email-agent",
+    "description": "Agente MCP de email: send/receive via Python IMAP/SMTP",
+    "tags": [
+      "mcp",
+      "email",
+      "python"
+    ],
+    "comando_install": "cd ~/Documents/email-agent && pip install -e ."
+  },
+  {
+    "name": "2ndbrain-rag",
+    "slug": "2ndbrain-rag",
+    "category": "02-automacao-e-workflows",
+    "status": "validado",
+    "type": "mcp-server",
+    "url": "",
+    "local_path": "~/tools/brain_rag_mcp.py",
+    "description": "RAG MCP server para o vault Obsidian 2ndBrain",
+    "tags": [
+      "mcp",
+      "rag",
+      "obsidian"
+    ],
+    "comando_install": "python ~/tools/brain_rag_mcp.py"
+  },
+  {
+    "name": "mcp-servers-repo",
+    "slug": "mcp-servers-repo",
+    "category": "02-automacao-e-workflows",
+    "status": "validado",
+    "type": "repo",
+    "url": "https://github.com/modelcontextprotocol/servers",
+    "local_path": "~/mcp-servers/mcp-servers-repo",
+    "description": "Repositorio oficial de MCP Servers (referencia)",
+    "tags": [
+      "mcp",
+      "reference",
+      "protocol"
+    ],
+    "comando_install": "git clone https://github.com/modelcontextprotocol/servers"
+  },
+  {
+    "name": "hermes-agent",
+    "slug": "hermes-agent",
+    "category": "02-automacao-e-workflows",
+    "status": "validado",
+    "type": "tool",
+    "url": "",
+    "local_path": "/home/danie/.hermes/hermes-agent",
+    "description": "Agente multi-plataforma com skills, cron, hooks e memorias (WSL)",
+    "tags": [
+      "hermes",
+      "wsl",
+      "agent"
+    ],
+    "comando_install": "WSL: ~/.hermes/"
+  },
+  {
+    "name": "firecrawl",
+    "slug": "firecrawl",
+    "category": "03-pesquisa-e-scraping",
+    "status": "validado",
+    "type": "skill",
+    "url": "",
+    "local_path": "~/.agents/skills/firecrawl",
+    "description": "Web scraping, search, crawl, download via Firecrawl CLI (20+ sub-skills)",
+    "tags": [
+      "scraping",
+      "firecrawl",
+      "web"
+    ],
+    "comando_install": "Antigravity built-in"
+  },
+  {
+    "name": "firecrawl-deep-research",
+    "slug": "firecrawl-deep-research",
+    "category": "03-pesquisa-e-scraping",
+    "status": "validado",
+    "type": "skill",
+    "url": "",
+    "local_path": "~/.agents/skills/firecrawl-deep-research",
+    "description": "Relatorios analiticos citados com executive summary e fontes completas",
+    "tags": [
+      "research",
+      "deep-research",
+      "reports"
+    ],
+    "comando_install": "Antigravity built-in"
+  },
+  {
+    "name": "firecrawl-research-papers",
+    "slug": "firecrawl-research-papers",
+    "category": "03-pesquisa-e-scraping",
+    "status": "validado",
+    "type": "skill",
+    "url": "",
+    "local_path": "~/.agents/skills/firecrawl-research-papers",
+    "description": "Busca e sintese de papers academicos (PubMed, bioRxiv, arXiv)",
+    "tags": [
+      "papers",
+      "academic",
+      "research"
+    ],
+    "comando_install": "Antigravity built-in"
+  },
+  {
+    "name": "firecrawl-seo-audit",
+    "slug": "firecrawl-seo-audit",
+    "category": "03-pesquisa-e-scraping",
+    "status": "validado",
+    "type": "skill",
+    "url": "",
+    "local_path": "~/.agents/skills/firecrawl-seo-audit",
+    "description": "Auditoria SEO: metadata, headings, sitemap, keywords, SERP",
+    "tags": [
+      "seo",
+      "audit",
+      "firecrawl"
+    ],
+    "comando_install": "Antigravity built-in"
+  },
+  {
+    "name": "firecrawl-monitor",
+    "slug": "firecrawl-monitor",
+    "category": "03-pesquisa-e-scraping",
+    "status": "validado",
+    "type": "skill",
+    "url": "",
+    "local_path": "~/.agents/skills/firecrawl-monitor",
+    "description": "Alertas de mudancas em paginas web via webhook/email",
+    "tags": [
+      "monitor",
+      "alerts",
+      "web-changes"
+    ],
+    "comando_install": "Antigravity built-in"
+  },
+  {
+    "name": "defuddle",
+    "slug": "defuddle",
+    "category": "03-pesquisa-e-scraping",
+    "status": "validado",
+    "type": "skill",
+    "url": "",
+    "local_path": "~/.agents/skills/defuddle",
+    "description": "Extrai markdown limpo de paginas web removendo clutter",
+    "tags": [
+      "markdown",
+      "extraction",
+      "clean"
+    ],
+    "comando_install": "Antigravity built-in"
+  },
+  {
+    "name": "crawl4ai",
+    "slug": "crawl4ai",
+    "category": "03-pesquisa-e-scraping",
+    "status": "validado",
+    "type": "tool",
+    "url": "https://github.com/unclecode/crawl4ai",
+    "local_path": "~/tools/crawl4ai",
+    "description": "Scraping inteligente com IA: extracao estruturada e LLM-friendly",
+    "tags": [
+      "scraping",
+      "ai",
+      "crawl"
+    ],
+    "comando_install": "pip install crawl4ai"
+  },
+  {
+    "name": "web-perf",
+    "slug": "web-perf",
+    "category": "03-pesquisa-e-scraping",
+    "status": "validado",
+    "type": "skill",
+    "url": "",
+    "local_path": "~/.agents/skills/web-perf",
+    "description": "Profiling web: Core Web Vitals (LCP, INP, CLS), Lighthouse, DevTools",
+    "tags": [
+      "performance",
+      "web-vitals",
+      "lighthouse"
+    ],
+    "comando_install": "Antigravity built-in"
+  },
+  {
+    "name": "notebooklm",
+    "slug": "notebooklm",
+    "category": "03-pesquisa-e-scraping",
+    "status": "validado",
+    "type": "skill",
+    "url": "",
+    "local_path": "~/.agents/skills/notebooklm",
+    "description": "API Google NotebookLM: notebooks, sources, podcasts programaticos",
+    "tags": [
+      "notebooklm",
+      "google",
+      "podcasts"
+    ],
+    "comando_install": "Antigravity built-in"
+  },
+  {
+    "name": "firecrawl-competitive-intel",
+    "slug": "firecrawl-competitive-intel",
+    "category": "03-pesquisa-e-scraping",
+    "status": "validado",
+    "type": "skill",
+    "url": "",
+    "local_path": "~/.agents/skills/firecrawl-competitive-intel",
+    "description": "Monitoramento de concorrentes: pricing, features, changelogs",
+    "tags": [
+      "competitive",
+      "intel",
+      "pricing"
+    ],
+    "comando_install": "Antigravity built-in"
+  },
+  {
+    "name": "reverse-api-engineer",
+    "slug": "reverse-api-engineer",
+    "category": "03-pesquisa-e-scraping",
+    "status": "radar",
+    "type": "tool",
+    "url": "https://github.com/kalil0321/reverse-api-engineer",
+    "local_path": "",
+    "description": "Projeto de avaliação para gerar clientes de API tipados a partir de interfaces web autorizadas.",
+    "tags": [
+      "reverse-engineering",
+      "api",
+      "osint"
+    ],
+    "comando_install": ""
+  },
+  {
+    "name": "hyperframes",
+    "slug": "hyperframes",
+    "category": "04-conteudo-e-midia",
+    "status": "validado",
+    "type": "skill",
+    "url": "",
+    "local_path": "~/.agents/skills/hyperframes",
+    "description": "Framework de composicao de video HTML (9 sub-skills: animation, audio, CLI, core, etc.)",
+    "tags": [
+      "video",
+      "hyperframes",
+      "composition"
+    ],
+    "comando_install": "Antigravity built-in"
+  },
+  {
+    "name": "remotion-best-practices",
+    "slug": "remotion-best-practices",
+    "category": "04-conteudo-e-midia",
+    "status": "validado",
+    "type": "skill",
+    "url": "",
+    "local_path": "~/.agents/skills/remotion-best-practices",
+    "description": "Best practices para Remotion: video creation em React",
+    "tags": [
+      "remotion",
+      "video",
+      "react"
+    ],
+    "comando_install": "Antigravity built-in"
+  },
+  {
+    "name": "higgsfield-generate",
+    "slug": "higgsfield-generate",
+    "category": "04-conteudo-e-midia",
+    "status": "validado",
+    "type": "skill",
+    "url": "",
+    "local_path": "~/.agents/skills/higgsfield-generate",
+    "description": "Geracao de imagem/video via Higgsfield AI",
+    "tags": [
+      "higgsfield",
+      "image",
+      "video-gen"
+    ],
+    "comando_install": "Antigravity built-in"
+  },
+  {
+    "name": "media-use",
+    "slug": "media-use",
+    "category": "04-conteudo-e-midia",
+    "status": "validado",
+    "type": "skill",
+    "url": "",
+    "local_path": "~/.agents/skills/media-use",
+    "description": "Asset OS: BGM, SFX, TTS, voiceover, captions, background removal",
+    "tags": [
+      "media",
+      "audio",
+      "assets"
+    ],
+    "comando_install": "Antigravity built-in"
+  },
+  {
+    "name": "banner-design",
+    "slug": "banner-design",
+    "category": "04-conteudo-e-midia",
+    "status": "validado",
+    "type": "skill",
+    "url": "",
+    "local_path": "~/.gemini/config/skills/banner-design",
+    "description": "Banners para social media/ads/web/print em 22 estilos visuais",
+    "tags": [
+      "banner",
+      "design",
+      "social-media"
+    ],
+    "comando_install": "Antigravity built-in"
+  },
+  {
+    "name": "brand",
+    "slug": "brand",
+    "category": "04-conteudo-e-midia",
+    "status": "validado",
+    "type": "skill",
+    "url": "",
+    "local_path": "~/.gemini/config/skills/brand",
+    "description": "Brand voice, identidade visual, messaging frameworks, style guides",
+    "tags": [
+      "brand",
+      "identity",
+      "messaging"
+    ],
+    "comando_install": "Antigravity built-in"
+  },
+  {
+    "name": "design-system",
+    "slug": "design-system",
+    "category": "04-conteudo-e-midia",
+    "status": "validado",
+    "type": "skill",
+    "url": "",
+    "local_path": "~/.gemini/config/skills/design-system",
+    "description": "Tokens (primitive, semantic, component), CSS vars, component specs",
+    "tags": [
+      "design-system",
+      "tokens",
+      "components"
+    ],
+    "comando_install": "Antigravity built-in"
+  },
+  {
+    "name": "slides",
+    "slug": "slides",
+    "category": "04-conteudo-e-midia",
+    "status": "validado",
+    "type": "skill",
+    "url": "",
+    "local_path": "~/.gemini/config/skills/slides",
+    "description": "Apresentacoes HTML estrategicas com Chart.js e design tokens",
+    "tags": [
+      "slides",
+      "presentations",
+      "chartjs"
+    ],
+    "comando_install": "Antigravity built-in"
+  },
+  {
+    "name": "video-use",
+    "slug": "video-use",
+    "category": "04-conteudo-e-midia",
+    "status": "validado",
+    "type": "skill",
+    "url": "https://github.com/browser-use/video-use",
+    "local_path": "~/.claude/skills/video-use",
+    "description": "Automacao de video via browser automation",
+    "tags": [
+      "video",
+      "browser",
+      "automation"
+    ],
+    "comando_install": "git clone https://github.com/browser-use/video-use"
+  },
+  {
+    "name": "Generative-Media-Skills",
+    "slug": "generative-media-skills",
+    "category": "04-conteudo-e-midia",
+    "status": "validado",
+    "type": "repo",
+    "url": "https://github.com/SamurAIGPT/Generative-Media-Skills",
+    "local_path": "~/tools/Generative-Media-Skills",
+    "description": "50+ skills de midia generativa: motion, visual, social, workflow",
+    "tags": [
+      "media",
+      "generative",
+      "mega-library"
+    ],
+    "comando_install": "git clone https://github.com/SamurAIGPT/Generative-Media-Skills"
+  },
+  {
+    "name": "claude-video",
+    "slug": "claude-video",
+    "category": "04-conteudo-e-midia",
+    "status": "validado",
+    "type": "repo",
+    "url": "https://github.com/bradautomates/claude-video",
+    "local_path": "~/Libraries/claude-video",
+    "description": "Biblioteca de video para Claude com skills de watching",
+    "tags": [
+      "video",
+      "claude",
+      "library"
+    ],
+    "comando_install": "git clone https://github.com/bradautomates/claude-video"
+  },
+  {
+    "name": "humanizer",
+    "slug": "humanizer",
+    "category": "04-conteudo-e-midia",
+    "status": "validado",
+    "type": "skill",
+    "url": "https://github.com/blader/humanizer",
+    "local_path": "~/.claude/skills/humanizer",
+    "description": "Humanizacao de texto gerado por IA para tom natural",
+    "tags": [
+      "humanizer",
+      "text",
+      "tone"
+    ],
+    "comando_install": "git clone https://github.com/blader/humanizer ~/.claude/skills/humanizer"
+  },
+  {
+    "name": "firecrawl-lead-gen",
+    "slug": "firecrawl-lead-gen",
+    "category": "05-negocios-e-operacoes",
+    "status": "validado",
+    "type": "skill",
+    "url": "",
+    "local_path": "~/.agents/skills/firecrawl-lead-gen",
+    "description": "Listas de leads estruturadas de diretorios web: CRM-ready JSON/CSV",
+    "tags": [
+      "leads",
+      "crm",
+      "prospecting"
+    ],
+    "comando_install": "Antigravity built-in"
+  },
+  {
+    "name": "firecrawl-lead-research",
+    "slug": "firecrawl-lead-research",
+    "category": "05-negocios-e-operacoes",
+    "status": "validado",
+    "type": "skill",
+    "url": "",
+    "local_path": "~/.agents/skills/firecrawl-lead-research",
+    "description": "Briefs de inteligencia pre-reuniao: empresa, pessoa, news, pain points",
+    "tags": [
+      "leads",
+      "research",
+      "pre-meeting"
+    ],
+    "comando_install": "Antigravity built-in"
+  },
+  {
+    "name": "firecrawl-market-research",
+    "slug": "firecrawl-market-research",
+    "category": "05-negocios-e-operacoes",
+    "status": "validado",
+    "type": "skill",
+    "url": "",
+    "local_path": "~/.agents/skills/firecrawl-market-research",
+    "description": "Dados de mercado, financeiros, earnings e tendencias de industria",
+    "tags": [
+      "market",
+      "research",
+      "financial"
+    ],
+    "comando_install": "Antigravity built-in"
+  },
+  {
+    "name": "firecrawl-shop",
+    "slug": "firecrawl-shop",
+    "category": "05-negocios-e-operacoes",
+    "status": "validado",
+    "type": "skill",
+    "url": "",
+    "local_path": "~/.agents/skills/firecrawl-shop",
+    "description": "Comparacao de produtos web com recomendacao e cart-ready summary",
+    "tags": [
+      "shopping",
+      "comparison",
+      "products"
+    ],
+    "comando_install": "Antigravity built-in"
+  },
+  {
+    "name": "doc-coauthoring",
+    "slug": "doc-coauthoring",
+    "category": "05-negocios-e-operacoes",
+    "status": "validado",
+    "type": "skill",
+    "url": "",
+    "local_path": "~/.gemini/config/skills/doc-coauthoring",
+    "description": "Co-autoria de docs, proposals, specs e decision docs com workflow guiado",
+    "tags": [
+      "docs",
+      "proposals",
+      "coauthoring"
+    ],
+    "comando_install": "Antigravity built-in"
+  },
+  {
+    "name": "onboard",
+    "slug": "onboard",
+    "category": "05-negocios-e-operacoes",
+    "status": "validado",
+    "type": "skill",
+    "url": "",
+    "local_path": "~/.gemini/config/skills/onboard",
+    "description": "Design de onboarding, empty states e first-run experiences",
+    "tags": [
+      "onboarding",
+      "ux",
+      "activation"
+    ],
+    "comando_install": "Antigravity built-in"
+  },
+  {
+    "name": "CareerOpsPilot",
+    "slug": "careeropspilot",
+    "category": "05-negocios-e-operacoes",
+    "status": "validado",
+    "type": "repo",
+    "url": "https://github.com/DanMrxs/HR-Management",
+    "local_path": "~/Documents/CareerOpsPilot",
+    "description": "Plataforma de gestao de RH e operacoes de carreira",
+    "tags": [
+      "hr",
+      "management",
+      "operations"
+    ],
+    "comando_install": "git clone https://github.com/DanMrxs/HR-Management"
+  },
+  {
+    "name": "moreailesscost-site",
+    "slug": "moreailesscost-site",
+    "category": "05-negocios-e-operacoes",
+    "status": "validado",
+    "type": "repo",
+    "url": "https://github.com/DanMrxs/moreailesscost-site",
+    "local_path": "~/Documents/+AI-Cost/Rebuild/moreailesscost-site-github",
+    "description": "Portal More AI Less Cost: blog e conteudo sobre eficiencia com IA",
+    "tags": [
+      "blog",
+      "ai-cost",
+      "content"
+    ],
+    "comando_install": "git clone https://github.com/DanMrxs/moreailesscost-site"
+  },
+  {
+    "name": "ProHeroSports-Landing",
+    "slug": "proherosports-landing",
+    "category": "05-negocios-e-operacoes",
+    "status": "validado",
+    "type": "repo",
+    "url": "https://github.com/DanMrxs/ProHeroSports-Landing",
+    "local_path": "~/Documents/ProHeroSports/Landing",
+    "description": "Landing page do ProHeroSports",
+    "tags": [
+      "landing",
+      "sports",
+      "ecommerce"
+    ],
+    "comando_install": "git clone https://github.com/DanMrxs/ProHeroSports-Landing"
+  },
+  {
+    "name": "Kern-Landing",
+    "slug": "kern-landing",
+    "category": "05-negocios-e-operacoes",
+    "status": "validado",
+    "type": "repo",
+    "url": "https://github.com/DanMrxs/Kern-Landing",
+    "local_path": "~/Documents/+AI-Cost/Kern/Landing",
+    "description": "Landing page do projeto Kern (IA + custos)",
+    "tags": [
+      "landing",
+      "kern",
+      "ai"
+    ],
+    "comando_install": "git clone https://github.com/DanMrxs/Kern-Landing"
+  },
+  {
+    "name": "awesome-growth-hacking-skills",
+    "slug": "awesome-growth-hacking-skills",
+    "category": "05-negocios-e-operacoes",
+    "status": "validado",
+    "type": "repo",
+    "url": "https://github.com/mikiarlo3/awesome-growth-hacking-skills",
+    "local_path": "~/.codex/FullMrktDept-retained-tools/skills-catalog/awesome-growth-hacking-skills",
+    "description": "Catalogo de skills de growth hacking para agentes",
+    "tags": [
+      "growth",
+      "hacking",
+      "marketing"
+    ],
+    "comando_install": "git clone https://github.com/mikiarlo3/awesome-growth-hacking-skills"
+  },
+  {
+    "name": "context-engineering-marketplace",
+    "slug": "context-engineering-marketplace",
+    "category": "01-engenharia-e-dev",
+    "status": "radar",
+    "type": "repo",
+    "url": "https://github.com/muratcankoylan/agent-skills-for-context-engineering",
+    "local_path": "~/.claude/plugins/context-engineering-marketplace",
+    "description": "Marketplace de skills para context engineering (explorar)",
+    "tags": [
+      "context",
+      "engineering",
+      "marketplace"
+    ],
+    "comando_install": "git clone https://github.com/muratcankoylan/agent-skills-for-context-engineering"
+  },
+  {
+    "name": "caveman",
+    "slug": "caveman",
+    "category": "01-engenharia-e-dev",
+    "status": "radar",
+    "type": "plugin",
+    "url": "https://github.com/JuliusBrussee/caveman",
+    "local_path": "~/.claude/plugins/marketplaces/caveman",
+    "description": "Plugin Caveman para Claude: explorar uso e capabilities",
+    "tags": [
+      "claude",
+      "plugin",
+      "caveman"
+    ],
+    "comando_install": "git clone git@github.com:JuliusBrussee/caveman.git"
+  },
+  {
+    "name": "superpowers-marketplace",
+    "slug": "superpowers-marketplace",
+    "category": "01-engenharia-e-dev",
+    "status": "radar",
+    "type": "plugin",
+    "url": "https://github.com/obra/superpowers-marketplace",
+    "local_path": "~/.claude/plugins/marketplaces/superpowers-marketplace",
+    "description": "Marketplace Superpowers: skills e plugins avancados para Claude",
+    "tags": [
+      "claude",
+      "marketplace",
+      "superpowers"
+    ],
+    "comando_install": "git clone git@github.com:obra/superpowers-marketplace.git"
+  },
+  {
+    "name": "open-generative-ai",
+    "slug": "open-generative-ai",
+    "category": "04-conteudo-e-midia",
+    "status": "radar",
+    "type": "tool",
+    "url": "https://github.com/anil-matcha/open-generative-ai",
+    "local_path": "~/tools/open-generative-ai",
+    "description": "Toolkit open-source de IA generativa (explorar capabilities)",
+    "tags": [
+      "generative",
+      "ai",
+      "toolkit"
+    ],
+    "comando_install": "git clone https://github.com/anil-matcha/open-generative-ai"
+  },
+  {
+    "name": "minimax-skills",
+    "slug": "minimax-skills",
+    "category": "04-conteudo-e-midia",
+    "status": "radar",
+    "type": "repo",
+    "url": "https://github.com/MiniMax-AI/skills",
+    "local_path": "~/.minimax-skills",
+    "description": "Skills oficiais do MiniMax AI (explorar integracao)",
+    "tags": [
+      "minimax",
+      "skills",
+      "ai"
+    ],
+    "comando_install": "git clone https://github.com/MiniMax-AI/skills"
+  },
+  {
+    "name": "openai-skills",
+    "slug": "openai-skills",
+    "category": "01-engenharia-e-dev",
+    "status": "radar",
+    "type": "repo",
+    "url": "https://github.com/openai/skills",
+    "local_path": "~/.codex/vendor_imports/skills",
+    "description": "Skills oficiais da OpenAI para Codex (explorar padroes)",
+    "tags": [
+      "openai",
+      "codex",
+      "skills"
+    ],
+    "comando_install": "git clone https://github.com/openai/skills"
+  },
+  {
+    "name": "claude-mem",
+    "slug": "claude-mem",
+    "category": "02-automacao-e-workflows",
+    "status": "radar",
+    "type": "plugin",
+    "url": "https://github.com/thedotmack/claude-mem",
+    "local_path": "~/.claude/plugins/marketplaces/thedotmack",
+    "description": "Plugin de memoria persistente para Claude",
+    "tags": [
+      "claude",
+      "memory",
+      "persistence"
+    ],
+    "comando_install": "git clone git@github.com:thedotmack/claude-mem.git"
+  },
+  {
+    "name": "kepano-obsidian-skills",
+    "slug": "kepano-obsidian-skills",
+    "category": "02-automacao-e-workflows",
+    "status": "radar",
+    "type": "repo",
+    "url": "https://github.com/kepano/obsidian-skills",
+    "local_path": "~/mcp-servers/kepano-skills",
+    "description": "Skills Obsidian por Kepano: defuddle, json-canvas, bases, cli, markdown",
+    "tags": [
+      "obsidian",
+      "kepano",
+      "skills"
+    ],
+    "comando_install": "git clone https://github.com/kepano/obsidian-skills"
+  },
+  {
+    "name": "Third Brain",
+    "slug": "third-brain",
+    "category": "03-pesquisa-e-scraping",
+    "status": "validado",
+    "type": "skill",
+    "url": "",
+    "local_path": "~/.codex/skills/third-brain",
+    "comando_install": "",
+    "description": "Recupera e integra evidências do vault 2ndBrain.",
+    "tags": [
+      "obsidian",
+      "rag"
+    ]
+  },
+  {
+    "name": "Obsidian Markdown",
+    "slug": "obsidian-markdown",
+    "category": "02-automacao-e-workflows",
+    "status": "validado",
+    "type": "skill",
+    "url": "",
+    "local_path": "~/.agents/skills/obsidian-markdown",
+    "comando_install": "",
+    "description": "Edita notas do Obsidian com propriedades, wikilinks e embeds.",
+    "tags": [
+      "obsidian",
+      "markdown"
+    ]
+  },
+  {
+    "name": "Obsidian Bases",
+    "slug": "obsidian-bases",
+    "category": "02-automacao-e-workflows",
+    "status": "validado",
+    "type": "skill",
+    "url": "",
+    "local_path": "~/.agents/skills/obsidian-bases",
+    "comando_install": "",
+    "description": "Monta visualizações e filtros nas bases do Obsidian.",
+    "tags": [
+      "obsidian",
+      "bases"
+    ]
+  },
+  {
+    "name": "JSON Canvas",
+    "slug": "json-canvas",
+    "category": "02-automacao-e-workflows",
+    "status": "validado",
+    "type": "skill",
+    "url": "",
+    "local_path": "~/.agents/skills/json-canvas",
+    "comando_install": "",
+    "description": "Monta mapas em JSON Canvas com nós, grupos e conexões.",
+    "tags": [
+      "obsidian",
+      "canvas"
+    ]
+  },
+  {
+    "name": "n8n Expression Syntax",
+    "slug": "n8n-expression-syntax",
+    "category": "02-automacao-e-workflows",
+    "status": "validado",
+    "type": "skill",
+    "url": "",
+    "local_path": "~/.agents/skills/n8n-expression-syntax",
+    "comando_install": "",
+    "description": "Valida e corrige expressões de workflows n8n.",
+    "tags": [
+      "n8n",
+      "expressões"
+    ]
+  },
+  {
+    "name": "n8n Node Configuration",
+    "slug": "n8n-node-configuration",
+    "category": "02-automacao-e-workflows",
+    "status": "validado",
+    "type": "skill",
+    "url": "",
+    "local_path": "~/.agents/skills/n8n-node-configuration",
+    "comando_install": "",
+    "description": "Configura nós n8n conforme a operação e seus argumentos.",
+    "tags": [
+      "n8n",
+      "workflows"
+    ]
+  },
+  {
+    "name": "n8n Validation Expert",
+    "slug": "n8n-validation-expert",
+    "category": "02-automacao-e-workflows",
+    "status": "validado",
+    "type": "skill",
+    "url": "",
+    "local_path": "~/.agents/skills/n8n-validation-expert",
+    "comando_install": "",
+    "description": "Interpreta erros de validação em workflows n8n.",
+    "tags": [
+      "n8n",
+      "validação"
+    ]
+  },
+  {
+    "name": "Remotion Workflow",
+    "slug": "remotion-workflow",
+    "category": "04-conteudo-e-midia",
+    "status": "validado",
+    "type": "skill",
+    "url": "",
+    "local_path": "~/.agents/skills/remotion-workflow",
+    "comando_install": "",
+    "description": "Aplica convenções de produção e registro de vídeos Remotion.",
+    "tags": [
+      "remotion",
+      "vídeo"
+    ]
+  },
+  {
+    "name": "Kern Video",
+    "slug": "kern-video",
+    "category": "04-conteudo-e-midia",
+    "status": "validado",
+    "type": "skill",
+    "url": "",
+    "local_path": "~/.gemini/config/skills/kern-video",
+    "comando_install": "",
+    "description": "Aplica as diretrizes de vídeo dos projetos Kern.",
+    "tags": [
+      "kern",
+      "vídeo"
+    ]
+  },
+  {
+    "name": "Sequential Thinking",
+    "slug": "sequential-thinking-mcp",
+    "category": "02-automacao-e-workflows",
+    "status": "validado",
+    "type": "mcp-server",
+    "url": "",
+    "local_path": "~/.codex/config.toml",
+    "comando_install": "",
+    "description": "Organiza raciocínio iterativo em etapas.",
+    "tags": [
+      "mcp"
+    ]
+  },
+  {
+    "name": "Cloudflare API",
+    "slug": "cloudflare-api-mcp",
+    "category": "02-automacao-e-workflows",
+    "status": "validado",
+    "type": "mcp-server",
+    "url": "",
+    "local_path": "~/.codex/config.toml",
+    "comando_install": "",
+    "description": "Consulta e gerencia recursos da conta Cloudflare por MCP.",
+    "tags": [
+      "mcp"
+    ]
+  },
+  {
+    "name": "Cloudflare Docs",
+    "slug": "cloudflare-docs-mcp",
+    "category": "03-pesquisa-e-scraping",
+    "status": "validado",
+    "type": "mcp-server",
+    "url": "",
+    "local_path": "~/.codex/config.toml",
+    "comando_install": "",
+    "description": "Consulta documentação oficial da Cloudflare.",
+    "tags": [
+      "mcp"
+    ]
+  },
+  {
+    "name": "n8n MCP",
+    "slug": "n8n-mcp",
+    "category": "02-automacao-e-workflows",
+    "status": "validado",
+    "type": "mcp-server",
+    "url": "",
+    "local_path": "~/.codex/config.toml",
+    "comando_install": "",
+    "description": "Acessa os workflows e as execuções da instância n8n.",
+    "tags": [
+      "mcp"
+    ]
+  },
+  {
+    "name": "Ruflo MCP",
+    "slug": "ruflo-mcp",
+    "category": "02-automacao-e-workflows",
+    "status": "validado",
+    "type": "mcp-server",
+    "url": "",
+    "local_path": "~/.codex/config.toml",
+    "comando_install": "",
+    "description": "Expõe mecanismos de coordenação, memória e estado de agentes.",
+    "tags": [
+      "mcp"
+    ]
+  },
+  {
+    "name": "Remotion MCP",
+    "slug": "remotion-mcp",
+    "category": "04-conteudo-e-midia",
+    "status": "validado",
+    "type": "mcp-server",
+    "url": "",
+    "local_path": "~/.gemini/antigravity/mcp_config.json",
+    "comando_install": "",
+    "description": "Fornece ferramentas do ecossistema Remotion ao Antigravity.",
+    "tags": [
+      "mcp"
+    ]
+  },
+  {
+    "name": "Supabase MCP",
+    "slug": "supabase-mcp",
+    "category": "02-automacao-e-workflows",
+    "status": "validado",
+    "type": "mcp-server",
+    "url": "",
+    "local_path": "~/.gemini/antigravity/mcp_config.json",
+    "comando_install": "",
+    "description": "Fornece acesso aos projetos e bancos Supabase.",
+    "tags": [
+      "mcp"
+    ]
+  },
+  {
+    "name": "Firecrawl MCP",
+    "slug": "firecrawl-mcp",
+    "category": "03-pesquisa-e-scraping",
+    "status": "validado",
+    "type": "mcp-server",
+    "url": "",
+    "local_path": "~/.codex/config.toml",
+    "comando_install": "",
+    "description": "Pesquisa, extrai e estrutura conteúdo web.",
+    "tags": [
+      "mcp"
+    ]
+  },
+  {
+    "name": "Crawl4AI MCP",
+    "slug": "crawl4ai-mcp",
+    "category": "03-pesquisa-e-scraping",
+    "status": "validado",
+    "type": "mcp-server",
+    "url": "",
+    "local_path": "~/.codex/config.toml",
+    "comando_install": "",
+    "description": "Acessa as operações de extração web do Crawl4AI.",
+    "tags": [
+      "mcp"
+    ]
+  },
+  {
+    "name": "NotebookLM MCP",
+    "slug": "notebooklm-mcp",
+    "category": "03-pesquisa-e-scraping",
+    "status": "validado",
+    "type": "mcp-server",
+    "url": "",
+    "local_path": "~/.codex/config.toml",
+    "comando_install": "",
+    "description": "Consulta notebooks e fontes no Google NotebookLM.",
+    "tags": [
+      "mcp"
+    ]
+  },
+  {
+    "name": "Docker MCP Gateway",
+    "slug": "docker-mcp-gateway",
+    "category": "02-automacao-e-workflows",
+    "status": "validado",
+    "type": "mcp-server",
+    "url": "",
+    "local_path": "~/.codex/config.toml",
+    "comando_install": "",
+    "description": "Conecta o cliente aos servidores MCP registrados no Docker.",
+    "tags": [
+      "mcp"
+    ]
+  },
+  {
+    "name": "Node REPL MCP",
+    "slug": "node-repl-mcp",
+    "category": "01-engenharia-e-dev",
+    "status": "validado",
+    "type": "mcp-server",
+    "url": "",
+    "local_path": "~/.codex/config.toml",
+    "comando_install": "",
+    "description": "Mantém uma sessão JavaScript interativa para tarefas locais.",
+    "tags": [
+      "mcp"
+    ]
+  },
+  {
+    "name": "Email Agent ProHeroSports",
+    "slug": "email-agent-prohero",
+    "category": "02-automacao-e-workflows",
+    "status": "validado",
+    "type": "mcp-server",
+    "url": "",
+    "local_path": "~/.codex/config.toml",
+    "comando_install": "",
+    "description": "Integra a caixa ProHeroSports ao agente de e-mail.",
+    "tags": [
+      "mcp"
+    ]
+  },
+  {
+    "name": "Email Agent More AI Less Cost",
+    "slug": "email-agent-moreailesscost",
+    "category": "02-automacao-e-workflows",
+    "status": "validado",
+    "type": "mcp-server",
+    "url": "",
+    "local_path": "~/.codex/config.toml",
+    "comando_install": "",
+    "description": "Integra a caixa More AI Less Cost ao agente de e-mail.",
+    "tags": [
+      "mcp"
+    ]
+  },
+  {
+    "name": "AI Librarian",
+    "slug": "ai-librarian",
+    "category": "02-automacao-e-workflows",
+    "status": "validado",
+    "type": "skill",
+    "url": "",
+    "local_path": "skills/ai-librarian/SKILL.md",
+    "comando_install": "",
+    "description": "Cataloga ferramentas e sincroniza a estante Git com o Obsidian.",
+    "tags": [
+      "autoral",
+      "curadoria",
+      "obsidian"
+    ]
+  }
+]
